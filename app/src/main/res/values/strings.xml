@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iFood Suggest</string>
+    <string name="facebook_app_id">595997857518421</string>
+    <string name="facebook_login_protocol_scheme">fb595997857518421</string>
+
+    <string name="google_maps_api_key">AIzaSyDetuS-V-B8YFp1Tc2ddUrmudehv8skyG4</string>
+
+    <string name="wather_api_key">8626f21a29b527db33bf2b6312dc58c6</string>
+    <string name="wather_api_link">https://api.openwwathermap.org/data/2.5/weather</string>
+
+
+</resources>

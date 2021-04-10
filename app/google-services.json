@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540032315274",
+    "firebase_url": "https://projeto-ifood-228521.firebaseio.com",
+    "project_id": "projeto-ifood-228521",
+    "storage_bucket": "projeto-ifood-228521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540032315274:android:2c0f66ca132e1c90",
+        "android_client_info": {
+          "package_name": "br.edu.denis.projeto_ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540032315274-01ue16egh1a8luevk9ksugv2vvolqma4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.denis.projeto_ifood",
+            "certificate_hash": "2b27f4e8b2fccf631d2ea952a615a5f44e6d207b"
+          }
+        },
+        {
+          "client_id": "540032315274-gej378ukvkmpbbroiq6q7t6vdc7uodbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkX1YcuuNyRu8DHKN-PMcdEC8HOwKd8rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540032315274-gej378ukvkmpbbroiq6q7t6vdc7uodbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
