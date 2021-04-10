@@ -12,4 +12,4 @@
 **[PT]**  
 *Desafio para os alunos do curso de Engenharia de Computação para desenvolver um software mobile que, com base na localização informada pelo usuário, identifica o clima e sugere um pedido.*
 
-*Meu projeto possui um sistema de login pelo Facebook e Google. O usuário pode inserir o nome da cidade ou defini-lá no mapa (Google Maps) que é exibido. Atráves das cordenadas da localizaçao informada o clima é identificado e o prato é sugerido.*
+*Meu projeto possui um sistema de login pelo Facebook e Google. O usuário pode inserir o nome da cidade ou definí-la no mapa (Google Maps) que é exibido. Atráves das cordenadas da localizaçao informada o clima é identificado e o prato é sugerido.*
